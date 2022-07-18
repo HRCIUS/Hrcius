@@ -1,6 +1,6 @@
 ### Hello, my name is Horácio
 
-<img src="https://petepop.ig.com.br/wp-content/uploads/2021/06/reproduc%CC%A7a%CC%83o-instagram.jpg" width="300px">
+<img src="https://petepop.ig.com.br/wp-content/uploads/2021/06/reproduc%CC%A7a%CC%83o-instagram.jpg" width="800px">
 <!--
 **HRCIUS/Hrcius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
