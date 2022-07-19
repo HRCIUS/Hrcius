@@ -1,6 +1,10 @@
 ### Hello, my name is Horácio ✨✨✨
 
 <img src="https://petepop.ig.com.br/wp-content/uploads/2021/06/reproduc%CC%A7a%CC%83o-instagram.jpg" width="500px">
+<div>
+  <a href="https://github.com/HRCIUS">
+  <img src=""https://github-readme-stats.vercel.app/api?username=Hrcius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 **HRCIUS/Hrcius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
