@@ -7,7 +7,7 @@
 </div>
   
 - 🔭 I’m currently working on SUAP - IFRN
-- 🌱 I’m currently learning PHP language, Infoweb and Data Analysis
+- 🌱 I’m currently learning PHP language, JS language, Bootstrap Framework, Infoweb and Data Analysis
 
 <div> 
   <a href="https://instagram.com/h_barretu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
