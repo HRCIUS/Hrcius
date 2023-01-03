@@ -1,4 +1,8 @@
-### Hello, my name is Horácio ✨✨✨
+<hr>
+<h4 align="center">
+Oi! Eu sou Horácio, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h4>
+<hr>
 <div>
   <a href="https://github.com/HRCIUS">
   <img src="https://github-readme-stats.vercel.app/api?username=Hrcius&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/ style="align-items:center;">
