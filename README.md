@@ -3,9 +3,12 @@
 Oi! Eu sou Horácio, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h4>
 <hr>
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 <div>
   <a href="https://github.com/HRCIUS">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrcius&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/ style="align-items:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrcius&show_icons=true&theme=nightowl&include_all_commits=true"/ style="align-items:center;">
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrcius&layout=compact&langs_count=7&theme=nightowl"/>
   </a>
 </div>
