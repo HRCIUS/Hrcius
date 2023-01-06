@@ -6,12 +6,6 @@ Oi! Eu sou Horácio, seja bem-vindo(a) ao meu perfil! <img src="https://media.gi
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<div>
-  <a href="https://github.com/HRCIUS">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrcius&show_icons=true&theme=dracula&include_all_commits=true"/ style="align-items:center;">
-  </a>
-</div>
-  
 - 🌱 I’m currently learning Laravel, Django, Jquery and Data Analysis
 
 <div> 
