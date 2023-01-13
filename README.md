@@ -6,12 +6,10 @@ Oi! Eu sou Horácio, seja bem-vindo(a) ao meu perfil! <img src="https://media.gi
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-- 🌱 I’m currently learning Laravel, Django, Jquery and Data Analysis
-
-<div style='text-align:center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrcius&theme=tokyonight&hide_border=true">
+<div style='text-align:center; align-items:center;justify-content:center;display:center'>
+  <img style='text-align:center' src="https://github-readme-streak-stats.herokuapp.com/?user=Hrcius&theme=tokyonight&hide_border=true">
 </div>
-<br>
+
 <div> 
   <a href="https://instagram.com/h_barretu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/H_Barreto" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
