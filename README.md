@@ -15,3 +15,6 @@ Oi! Eu sou Horácio, seja bem-vindo(a) ao meu perfil! <img src="https://media.gi
   <a href="https://www.linkedin.com/in/hor%C3%A1cio-barreto-456a13235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrcius&theme=tokyonight&hide_border=true">
+</div
